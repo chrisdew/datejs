@@ -11,11 +11,11 @@ See [the datejs site](http://www.datejs.com/) for more information.
 Usage
 -----
 
-* In the shell:
+In the shell:
 
     npm install datejs
 
-* In your app:
+In your app:
 
     require('datejs');
 
