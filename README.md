@@ -12,9 +12,11 @@ Usage
 -----
 
 * In the shell:
+
     npm install datejs
 
 * In your app:
+
     require('datejs');
 
 Notes
