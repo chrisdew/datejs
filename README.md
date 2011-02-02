@@ -31,5 +31,5 @@ to access them yet.
 What I'll probably do is create a wrapper which defaults to en-US, but can be
 called with other locales.
 
-I am not the author of datejs.  I'm just maintaining a NPM package of it, as I
+I am not the author of datejs.  I'm just maintaining an NPM package of it, as I
 needed one.
