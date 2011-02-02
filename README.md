@@ -3,10 +3,22 @@ DateJS
 
 This is a simple NPM wrapper around the excellent datejs client-side library.
 
-It modifies the Data prototype - this technique is looked down upon, but it's
+It modifies the Date prototype - this technique is looked down upon, but it's
 a very useful library.
 
-See http://www.datejs.com/ for more information.
+See [the datejs site](http://www.datejs.com/) for more information.
+
+Usage
+-----
+
+* In the shell:
+    npm install datejs
+
+* In your app:
+    require('datejs');
+
+Notes
+-----
 
 NPM package datejs v0.0.1 corresponds to datejs Alpha1.  It hasn't changed for 
 three years, so hopefully it won't be too much of a maintenance nightmare.
