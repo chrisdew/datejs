@@ -1,9 +1,12 @@
 { "name" : "datejs"
 , "description" : "datejs, wrapped up as an npm package"
-, "version" : "0.0.1"
+, "version" : "0.0.2"
 , "maintainers" :
   [ { "name": "Chris Dew"
     , "email": "cmsdew@gmail.com"
+    },
+    { "name": "Casey Banner"
+    , "email": "kcbanner@gmail.com"
     }
   ]
 , "bugs" : { "web" : "http://github.com/chrisdew/datejs/issues" }
