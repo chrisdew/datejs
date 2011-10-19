@@ -1,1 +1,1 @@
-module.exports = require('./lib/date.js');
+module.exports = require('./lib/date-de-DE.js');
