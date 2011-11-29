@@ -9,7 +9,7 @@
     , "email": "kcbanner@gmail.com"
     }
   ]
-, "bugs" : { "web" : "http://github.com/chrisdew/datejs/issues" }
+, "bugs" : { "url" : "http://github.com/chrisdew/datejs/issues" }
 , "licenses" : [ { "type" : "MIT" } ]
 , "repositories" :
   [ { "type" : "git"
