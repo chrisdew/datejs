@@ -1,6 +1,3 @@
-DateJS is not working in 0.4.x - I'm now investigating it.
-==========================================================
-
 DateJS
 ------
 
