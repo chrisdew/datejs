@@ -1,4 +1,7 @@
-This NPM package is a zombie.  I cannot afford the time to maintain it, as I am no longer using it.
+This NPM package is a zombie. 
+=============================
+
+I cannot afford the time to maintain it, as I am no longer using it.
 
 If anyone would like to take over maintenance, please contact me via GitHub.
 
