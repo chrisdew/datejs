@@ -1,3 +1,16 @@
+This NPM package is a zombie.  I cannot afford the time to maintain it, as I am no longer using it.
+
+If anyone would like to take over maintenance, please contact me via GitHub.
+
+I have left the datejs package in the NPM repo, in order to not break other packages which depend on it.
+
+Have a look at https://npmjs.org/package/moment as an alternative.
+
+Apologies,
+
+Chris.
+
+
 DateJS is not working in 0.4.x - I'm now investigating it.
 ==========================================================
 
