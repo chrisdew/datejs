@@ -11,8 +11,8 @@ Apologies,
 Chris.
 
 
-DateJS is not working in 0.4.x - I'm now investigating it.
-==========================================================
+DateJS is not working in 0.4.x+ - I'm not investigating it.
+===========================================================
 
 DateJS
 ------
