@@ -1,3 +1,12 @@
+Change of Maintainer
+====================
+
+NPM's datejs will soon be maintained by https://github.com/abritinthebay
+
+It will based on the repo https://github.com/abritinthebay/datejs
+
+
+
 This NPM package is a zombie. 
 =============================
 
